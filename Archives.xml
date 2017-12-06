@@ -9,4 +9,10 @@
 <ContainObj>SBIP://METASERVER/Data Integration/Local/Utilities/brm_export_ruleset.sas(Note)</ContainObj>
 <ContainObj>SBIP://METASERVER/Data Integration/Local/Utilities/brm_export_vocabulary.sas(Note)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1512563768819" Description="" Name="brm" PackageName="brm.spk" UserID="sweroz@EUROPE" Version="1fa34e7">
+<ContainObj>SBIP://METASERVER/Data Integration/Local/Utilities/brm_export_ruleset(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Integration/Local/Utilities/brm_export_vocabulary(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Integration/Local/Utilities/brm_export_ruleset.sas(Note)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Integration/Local/Utilities/brm_export_vocabulary.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>
