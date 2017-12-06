@@ -15,4 +15,8 @@
 <ContainObj>SBIP://METASERVER/Data Integration/Local/Utilities/brm_export_ruleset.sas(Note)</ContainObj>
 <ContainObj>SBIP://METASERVER/Data Integration/Local/Utilities/brm_export_vocabulary.sas(Note)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1512564300896" Description="in Git_repo" Name="Git_in" PackageName="Git_in.spk" UserID="sweroz@EUROPE" Version="2f37827">
+<ContainObj>SBIP://METASERVER/Data Integration/SVN/Job/SVN_Test(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Integration/SVN/Job/SVN_Test.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>
