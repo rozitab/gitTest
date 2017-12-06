@@ -1,1 +1,6 @@
-<ROOT/>
+<?xml version="1.0" encoding="UTF-8"?><ROOT>
+<ArchInfo Date="1512562031096" Description="first" Name="GitTest1" PackageName="GitTest1.spk" UserID="sweroz@EUROPE" Version="2559b79">
+<ContainObj>SBIP://METASERVER/Data Integration/Local/Utilities/brm_export_rule_flow(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Integration/Local/Utilities/brm_export_rule_flow.sas(Note)</ContainObj>
+</ArchInfo>
+</ROOT>
