@@ -3,4 +3,10 @@
 <ContainObj>SBIP://METASERVER/Data Integration/Local/Utilities/brm_export_rule_flow(Job)</ContainObj>
 <ContainObj>SBIP://METASERVER/Data Integration/Local/Utilities/brm_export_rule_flow.sas(Note)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1512563572205" Description="" Name="BRM" PackageName="BRM.spk" UserID="sweroz@EUROPE" Version="3050d27">
+<ContainObj>SBIP://METASERVER/Data Integration/Local/Utilities/brm_export_ruleset(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Integration/Local/Utilities/brm_export_vocabulary(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Integration/Local/Utilities/brm_export_ruleset.sas(Note)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Integration/Local/Utilities/brm_export_vocabulary.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>
