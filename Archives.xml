@@ -19,4 +19,8 @@
 <ContainObj>SBIP://METASERVER/Data Integration/SVN/Job/SVN_Test(Job)</ContainObj>
 <ContainObj>SBIP://METASERVER/Data Integration/SVN/Job/SVN_Test.sas(Note)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1512564778776" Description="BRM in" Name="BRM" PackageName="BRM.spk" UserID="sweroz@EUROPE" Version="db5ec4d">
+<ContainObj>SBIP://METASERVER/Data Integration/Local/Utilities/brm_import_vocabulary(Job)</ContainObj>
+<ContainObj>SBIP://METASERVER/Data Integration/Local/Utilities/brm_import_vocabulary.sas(Note)</ContainObj>
+</ArchInfo>
 </ROOT>
